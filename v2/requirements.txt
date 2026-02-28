@@ -1,0 +1,15 @@
+# NEODesk Banking Agent
+# pip install -r requirements.txt
+
+langgraph>=0.2.50
+langchain>=0.3.10
+langchain-core>=0.3.25
+langchain-groq>=0.2.3
+langchain-mcp-adapters>=0.1.0
+mcp>=1.0.0
+streamlit>=1.40.0
+
+# NEODesk MCP Server
+# pip install -r requirements.txt
+
+fastmcp>=2.0.0
