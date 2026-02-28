@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-core
+langchain-ollama
+langgraph
+langchain-mcp-adapters
+nest_asyncio
+fastmcp
